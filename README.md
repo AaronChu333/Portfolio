@@ -4,7 +4,7 @@ Hi, I’m Aaron 👋 Here are some of the projects I’ve built:
 
 ## 🚀 Projects
 
-### [Task Manager (MERN)](https://github.com/AaronChu333/task-manager)
+### [Task Manager (MERN)](https://github.com/AaronChu333/CSE-115-)
 A Trello-style project and task management app with a minimalist feature set.  
 Tech: React, Node.js, Express, MongoDB.
 
