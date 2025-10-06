@@ -16,6 +16,6 @@ Tech: React Native, JavaScript, iOS.
 Interactive Verilog game using VGA sync for graphics and LFSR for randomness.  
 Tech: Verilog, Basys 3 FPGA, VGA.
 
-### [Firewall Configuration Lab](https://github.com/AaronChu333/firewall-lab)
+### [Firewall Configuration Lab](https://github.com/AaronChu333/Firewall-Configuration)
 Configured and tested Linux firewalls to block malicious traffic in a simulated enterprise network.  
 Tech: Linux, iptables, Wireshark.
